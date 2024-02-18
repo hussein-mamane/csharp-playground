@@ -1,0 +1,15 @@
+/home/housseinimdb/Bureau/testsharp/TestAppConsole/bin/Debug/net7.0/TestAppConsole
+/home/housseinimdb/Bureau/testsharp/TestAppConsole/bin/Debug/net7.0/TestAppConsole.deps.json
+/home/housseinimdb/Bureau/testsharp/TestAppConsole/bin/Debug/net7.0/TestAppConsole.runtimeconfig.json
+/home/housseinimdb/Bureau/testsharp/TestAppConsole/bin/Debug/net7.0/TestAppConsole.dll
+/home/housseinimdb/Bureau/testsharp/TestAppConsole/bin/Debug/net7.0/TestAppConsole.pdb
+/home/housseinimdb/Bureau/testsharp/TestAppConsole/obj/Debug/net7.0/TestAppConsole.csproj.AssemblyReference.cache
+/home/housseinimdb/Bureau/testsharp/TestAppConsole/obj/Debug/net7.0/TestAppConsole.GeneratedMSBuildEditorConfig.editorconfig
+/home/housseinimdb/Bureau/testsharp/TestAppConsole/obj/Debug/net7.0/TestAppConsole.AssemblyInfoInputs.cache
+/home/housseinimdb/Bureau/testsharp/TestAppConsole/obj/Debug/net7.0/TestAppConsole.AssemblyInfo.cs
+/home/housseinimdb/Bureau/testsharp/TestAppConsole/obj/Debug/net7.0/TestAppConsole.csproj.CoreCompileInputs.cache
+/home/housseinimdb/Bureau/testsharp/TestAppConsole/obj/Debug/net7.0/TestAppConsole.dll
+/home/housseinimdb/Bureau/testsharp/TestAppConsole/obj/Debug/net7.0/refint/TestAppConsole.dll
+/home/housseinimdb/Bureau/testsharp/TestAppConsole/obj/Debug/net7.0/TestAppConsole.pdb
+/home/housseinimdb/Bureau/testsharp/TestAppConsole/obj/Debug/net7.0/TestAppConsole.genruntimeconfig.cache
+/home/housseinimdb/Bureau/testsharp/TestAppConsole/obj/Debug/net7.0/ref/TestAppConsole.dll

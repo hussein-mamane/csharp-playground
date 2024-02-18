@@ -1,0 +1,22 @@
+@using MvcCrud.Models
+@model List<Book>
+
+<table>
+    <thead>
+        <tr>
+            <th>Books</th>
+            <th>Titles</th>
+        </tr>
+    </thead>
+    <tbody>
+        
+            @foreach(var book in Model)
+            {
+                <tr>
+                    <td>@book.Id</td>
+                    <td>@book.Title</td>
+                </tr>
+            }
+        
+    </tbody>
+</table>
