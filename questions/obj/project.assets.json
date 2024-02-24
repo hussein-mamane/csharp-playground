@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/housseinimdb/Bureau/testsharp/TestAppConsole/TestAppConsole.csproj",
-      "projectName": "TestAppConsole",
-      "projectPath": "/home/housseinimdb/Bureau/testsharp/TestAppConsole/TestAppConsole.csproj",
+      "projectUniqueName": "/home/housseinimdb/Bureau/testsharp/questions/questions.csproj",
+      "projectName": "questions",
+      "projectPath": "/home/housseinimdb/Bureau/testsharp/questions/questions.csproj",
       "packagesPath": "/home/housseinimdb/.nuget/packages/",
-      "outputPath": "/home/housseinimdb/Bureau/testsharp/TestAppConsole/obj/",
+      "outputPath": "/home/housseinimdb/Bureau/testsharp/questions/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/housseinimdb/.nuget/NuGet/NuGet.Config"
