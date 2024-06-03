@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "zNc7GHPQMOTI+XiXxo2ebAZewFPQ5GLFFCRqmPyGthuUoZ411yf4BvdcDqOQWFlOHPi025k0rL4rUZM7/72N8Q==",
+  "dgSpecHash": "rKcBtqYCv7Y0Dcdl24u/UNyjd6OwIMhsyZJpnjs3bfutQBERcK91TYzhNHLZSholHXM21ggX3oNakrhW0g9EwQ==",
   "success": true,
-  "projectFilePath": "/home/housseinimdb/Bureau/testsharp/TestAppConsole/TestAppConsole.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Housseini\\Desktop\\csharp-playground\\TestAppConsole\\TestAppConsole.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Housseini\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.18\\microsoft.netcore.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\Housseini\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.18\\microsoft.windowsdesktop.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\Housseini\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.18\\microsoft.aspnetcore.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\Housseini\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.18\\microsoft.netcore.app.host.win-x64.7.0.18.nupkg.sha512"
+  ],
   "logs": []
 }

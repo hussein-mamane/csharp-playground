@@ -7,7 +7,7 @@ namespace TestAppConsole
 {
     public class FileHandler
     {
-        // Static methods parameters must be static
+        // Static context methods parameters must be static
         public static readonly string myPathRead = "./text";
         public static readonly string myPathWrite = "./textWrite";
         public static void RunCode()
