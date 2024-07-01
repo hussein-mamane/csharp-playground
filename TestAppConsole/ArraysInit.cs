@@ -4,7 +4,7 @@ public  class ArraysInit
 {
     public static void RunCode()
     {
-        var objects = new[] { new  { b= 5,c="Hello",d=new string[]{"A","B"}}, new { b = 6,c="There",d= Array.Empty<string>() } };//unspecified type
+        var objects = new  [] { new  { b= 5,c="Hello",d=new string[]{"A","B"}}, new { b = 6,c="There",d= Array.Empty<string>() } };// new unspecified type []
         int[] oneDim = new int[] { 2, 3 };
         int[] oneDimCollectionExpression = [2, 3];
         int[][] twoDimJagged = [[2]];//jagged are easier and recommended
