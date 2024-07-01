@@ -12,8 +12,12 @@ namespace TestAppConsole
         public static void RunCode()
         {
             // 1. Create an ArrayList
-            ArrayList arrayList = new ArrayList();
+            ArrayList arrayList = new ArrayList(1) {45,22};//doesn't complain about capacity, will just extend
 
+            foreach (var v in arrayList)
+            {
+                Console.WriteLine(v);
+            }
             // 2. Add elements to the ArrayList
             arrayList.Add(10);
             arrayList.AddRange(new int[] { 4, 5, 6 });

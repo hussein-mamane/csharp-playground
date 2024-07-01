@@ -20,9 +20,12 @@ public static void RunCode()
     hashtable.Add(123, "XYZ");
 
     // 3. Access elements in the Hashtable using keys
-    int? johnsAge = (int)hashtable["John"];
+    
+    //FIXME  
+    //just avoid non generic collection, they are not recommended by microsoft
+    /*int? johnsAge = (int)hashtable["John"];
     string? alicesProfession = (string)hashtable["Alice"];
-    string? xyzValue = (string)hashtable[123];
+    string? xyzValue = (string)hashtable[123];*/
 
     // 4. Check if a key exists in the Hashtable
     bool containsAlice = hashtable.ContainsKey("Alice");

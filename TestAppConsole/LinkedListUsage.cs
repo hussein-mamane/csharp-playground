@@ -10,7 +10,7 @@ namespace TestAppConsole
         public static void RunCode()
         {
             // Create a LinkedList<int>
-        LinkedList<int> linkedList = new LinkedList<int>();
+            LinkedList<int> linkedList = [];//TODO to remember to keep using delightful C# v12 collection expression syntax
 
         // Add elements to the LinkedList
         linkedList.AddLast(10);
