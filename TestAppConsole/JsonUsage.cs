@@ -13,6 +13,7 @@ namespace TestAppConsole
         public static void RunCode()
         {
             // jsonSerializer
+            
         }
     }
 }

@@ -21,8 +21,10 @@ namespace TestAppConsole
         }   
         public static void RunCode()
         {
+            // in  [ comma...comma ] like [,] or [,,] style declaration , [a][b] indexing will not work
+            //every dimension size MUST be given
             Print2DArray(new int[,] { { 1, 2 }, { 3, 4 }, { 5, 6 }, { 7, 8 } });
-            int[,] array2DDeclaration = new int[4, 2];
+            int[,] array2DDeclaration = new int[4,2 ];
 
             int[,,] array3DDeclaration = new int[4, 2, 3];
 
@@ -32,8 +34,11 @@ namespace TestAppConsole
             int[,,] array3D = new int[,,] { { { 1, 2, 3 }, { 4,   5,  6 } },
                                             { { 7, 8, 9 }, { 10, 11, 12 } } };
 
+            int[][] arr2D = new int[2][];//you can only leave the rightmost dimension empty, for one dimension array you must tell it size
+
+
             // Accessing array elements.
-            System.Console.WriteLine(array2DInitialization[0, 0]);
+            System.Console.WriteLine(array2DInitialization[0,0]);
             System.Console.WriteLine(array2DInitialization[0, 1]);
             System.Console.WriteLine(array2DInitialization[1, 0]);
             System.Console.WriteLine(array2DInitialization[1, 1]);

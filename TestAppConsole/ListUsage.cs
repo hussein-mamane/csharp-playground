@@ -8,7 +8,9 @@ namespace TestAppConsole
 {
     public class ListUsage
     {
-        public static void RunCode(){
+        public static void RunCode()
+        {
+            
             Console.WriteLine("Hello, Woorld!");
             List<int> myList = new();
             System.Console.WriteLine(myList.Capacity);
